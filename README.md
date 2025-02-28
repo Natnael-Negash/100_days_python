@@ -15,7 +15,7 @@ The **100 Days of Python** challenge is a commitment to coding every day to stre
 
 ## 📂 Repository Structure  
 Each day’s work is organized into separate folders:  
-
+```plaintext
 100_days_python/ 
     │── Day_01/ │ 
         ├── main.ipynb │ 
