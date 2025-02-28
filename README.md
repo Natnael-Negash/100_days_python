@@ -27,7 +27,7 @@ Each day’s work is organized into separate folders:
     │── Day_100/ │ 
         ├── project.ipynb │ 
         ├── README.md
-
+```
 - Each folder contains Python scripts and explanations.  
 - Some days may include additional files like images, datasets, or dependencies.  
 
